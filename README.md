@@ -26,7 +26,7 @@ Here are some things I'm working on or improving:
 
 ## 📬 Connect With Me
 
-* GitHub: **Seed Plays**
-* More links coming soon!
-
+* GitHub: SEEDTHEBEAST
+* linkedin: www.linkedin.com/in/saeedjaved
+* tiktok: Coming soon.
 Thanks for visiting my profile! 🚀
