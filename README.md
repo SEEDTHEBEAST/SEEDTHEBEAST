@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Seed
 
-<!--
-**SEEDTHEBEAST/SEEDTHEBEAST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full‑stack developer in practice, always building, learning, and experimenting with programming.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning both stacks of development with a focus on ML models and business.
+* 🔧 Working on **AI Agents**, **Buisness Software**, and **ChainBlock software**
+* 🎯 Goal: Become a skilled, creative, and reliable developer who has a strong work ethic and learns from mistakes.
+* 💬 Ask me about: JavaScript, Python, C++, ML models, and back-end infastructre. 
+
+## 🛠️ Tech & Tools
+
+* **Languages:** JavaScript, Python, C#, GDScript
+* **Frameworks/Engines:** Godot, Node.js, Express
+* **Tools:** Git, VS Code, PowerShell, MCP
+
+## 📂 Projects
+
+Here are some things I'm working on or improving:
+
+
+## 📈 Stats (optional badges)
+
+*Add badges here if you want (GitHub stats, streaks, languages, etc.)*
+
+## 📬 Connect With Me
+
+* GitHub: **Seed Plays**
+* More links coming soon!
+
+Thanks for visiting my profile! 🚀
