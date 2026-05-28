@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm a full‑stack developer in practice, always b
 Here are some things I'm working on or improving:
 
 
-## 📈 Stats (optional badges)
+## 📈 Stats
 
-*Add badges here if you want (GitHub stats, streaks, languages, etc.)*
 
 ## 📬 Connect With Me
 
